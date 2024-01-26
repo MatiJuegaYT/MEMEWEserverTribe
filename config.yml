@@ -1,8 +1,8 @@
 enginetribe:
-  host: '127.0.0.1'  # Engine Tribe server host
+  host: '0.0.0.0'  # Engine Tribe server host
   port: 30000  # Default port that SMM_WE uses
   api_root: 'http://enginetribe.gq:30000/'  # Used in level links
-  api_key: "Y0UR_AP1_k3Y"  # Engine Bot API key
+  api_key: "MTE1MDA4NTkzODU2Nzk3MDgxNw.GCQdI_.zEiEGrOFl3xIF9fKOR71AhX0jyQuBaqnl5vpds"  # Engine Bot API key
   verify_user_agent: true  # Verify user agent
   rows_perpage: 32  # Levels per page
   upload_limit: 25  # Max levels per account
